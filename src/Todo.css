@@ -1,0 +1,19 @@
+.List {
+    display: flex;
+    justify-content: space-between;
+    margin: auto !important;
+  
+    width: 50% !important;
+  
+    font-size: 25px !important;
+  }
+  .delete_button:hover {
+    color: #ed2727 !important;
+    border:none!important;
+    outline: none !important;
+  }
+  .buttn{
+    border:none!important;
+    outline: none !important;
+  }
+  
